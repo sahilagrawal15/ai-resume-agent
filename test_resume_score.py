@@ -1,4 +1,4 @@
-from extract_keywords_from_jd import extract_keywords_from_jd
+from jd_keyword_extractor import extract_keywords_from_jd
 from extract_text_from_pdf import extract_text_from_pdf
 from score_resume_match import score_resume_match
 from generate_suggestions import generate_suggestions

@@ -4,7 +4,7 @@ SECTION_HEADERS = {
     "summary": ["summary", "objective", "professional summary"],
     "skills": ["skills", "technical skills", "core competencies"],
     "experience": ["experience", "work experience", "professional experience"],
-    "projects": ["projects", "personal projects", "side projects"],
+    "projects": ["projects", "personal projects", "side projects", "academic projects"],
     "education": ["education", "academic background", "qualifications"],
     "certifications": ["certifications", "licenses", "courses"]
 }
